@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shahensha&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shahensha" /> </p>
 
-- 🌱 I’m currently learning **Nodejs,Laravel**
+- 🌱 I’m currently learning **more about web technology**
 
 - 👨‍💻 All of my projects are available at [shahensha.tech](shahensha.tech)
 
