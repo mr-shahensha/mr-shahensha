@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shahensha&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shahensha" /> </p>
 
-- 🌱 I’m currently learning more about **web technology** .
+- 🌱 I’m currently learning more about **web technology** 
 
 - 👨‍💻 All of my projects are available at [shahensha.tech](shahensha.tech)
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eIG5wapFSx50fjVa8utNKwOoJyIrmWJt/view](https://drive.google.com/file/d/1eIG5wapFSx50fjVa8utNKwOoJyIrmWJt/view)
 
-- ⚡ Fun fact **I'm collaborative and I know how to work with people** .
+- ⚡ Fun fact **I'm collaborative and I know how to work with people** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
