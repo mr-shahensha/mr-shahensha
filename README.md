@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [shahensha.tech](shahensha.tech)
 
-- 📝 I regularly write articles on [https://shahensha.hashnode.dev/](https://shahensha.hashnode.dev/)
+- 📝 I sometimes write articles on [https://shahensha.hashnode.dev/](https://shahensha.hashnode.dev/)
 
 - 💬 Ask me about **Web development**
 
