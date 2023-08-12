@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shahensha&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shahensha" /> </p>
 
-- 🌱 I’m currently working on a secret project 🙈
+- 🌱 I’m currently working at Onnet Solution Infotech 
 
 - 👨‍💻 All of my projects are available at [shahensha.tech](shahensha.tech)
 
