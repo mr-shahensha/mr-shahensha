@@ -36,4 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shahensha&" alt="mr-shahensha" /></p>
 
-[![Top Languages of Shahensha ](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-shahensha&layout=compact&langs_count=15)](https://github.com/soumya-99/github-readme-stats)
