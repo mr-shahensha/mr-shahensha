@@ -1,36 +1,110 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://shahensha.tech)
-
-<h1 align="center">Hi 👋, I'm Shahensha Alam</h1>
-<h3 align="center">A passionate full stack web developer</h3>
-<img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" align="right" alt="Coding" width="400">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shahensha&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shahensha" /> </p>
-
-- 🌱 Founder of MintSpace Technologies 
-
-- 👨‍💻 All of my projects are available at [shahensha.tech](shahensha.tech)
-
-- 📝 I sometime write articles on [https://shahensha.hashnode.dev/](https://shahensha.hashnode.dev/)
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **shahensha0p@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eIG5wapFSx50fjVa8utNKwOoJyIrmWJt/view](https://drive.google.com/file/d/1eIG5wapFSx50fjVa8utNKwOoJyIrmWJt/view)
-
-- ⚡ Fun fact **I'm collaborative and I know how to work with people** 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://in.linkedin.com/in/shahensha-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahensha-alam/" height="30" width="40" /></a>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=220&section=header&text=Shahensha%20Alam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20of%20MintSpace%20Technologies&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Shahensha Alam" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://shahensha.tech">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+websites+that+work+well;Running+MintSpace+Technologies+from+Kolkata;Making+a+private+AI+agent+that+runs+at+home;Always+learning+something+new" alt="Typing intro" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-shahensha&show_icons=true&locale=en&layout=compact" alt="mr-shahensha" /></p>
+<p align="center">
+  <a href="https://shahensha.tech"><img src="https://img.shields.io/badge/Portfolio-shahensha.tech-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0c29" alt="Portfolio" /></a>
+  <a href="https://in.linkedin.com/in/shahensha-alam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn" /></a>
+  <a href="https://shahensha.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0f0c29" alt="Hashnode" /></a>
+  <a href="mailto:shahensha0p@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1eIG5wapFSx50fjVa8utNKwOoJyIrmWJt/view"><img src="https://img.shields.io/badge/Resume-View-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0f0c29" alt="Resume" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-shahensha&show_icons=true&locale=en" alt="mr-shahensha" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-shahensha&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shahensha&" alt="mr-shahensha" /></p>
+<!-- ================= ABOUT ================= -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
+  About Me
+</h2>
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```js
+const shahensha = {
+  location:   "Kolkata, India",
+  role:       "Full Stack Web Developer",
+  founderOf:  "MintSpace Technologies",
+  work:       ["Websites", "Web Apps", "Mobile Apps", "Digital Marketing"],
+  building:   ["School Management SaaS", "Private AI Agent"],
+  learning:   ["AI Automation", "AI Assisted Web Building"],
+  askMeAbout: "Web development",
+  funFact:    "I work well with people and love teamwork",
+};
+```
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
+</td>
+</tr>
+</table>
+
+<!-- ================= NOW BUILDING ================= -->
+<h2>🚀 What I Am Building Right Now</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 School Management SaaS
+A simple and complete system for schools to manage students, staff, fees and daily work in one place.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Private AI Agent
+A personal AI that runs fully at home on my own machine. It reads my chosen files, searches my photos and keeps everything private.
+
+`Ollama` `Qdrant` `Docker` `Open WebUI` `Python`
+
+</td>
+</tr>
+</table>
+
+<!-- ================= TECH STACK ================= -->
+<h2>🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,mysql&theme=dark&perline=8" alt="Languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,ps,linux&theme=dark&perline=8" alt="Tools" />
+</p>
+
+<!-- ================= STATS ================= -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mr-shahensha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-shahensha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d4ff&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mr-shahensha&theme=tokyonight&hide_border=true&background=0f0c29&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-shahensha&bg_color=0f0c29&color=00d4ff&line=302b63&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <b>Have a project in mind? Lets build it together.</b>
+  <br/>
+  <a href="mailto:shahensha0p@gmail.com">shahensha0p@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+</p>
