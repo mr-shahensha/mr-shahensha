@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://shahensha.tech">
+  <a href="https://MINTSPACE-WEBSITE-HERE">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+websites+that+work+well;Running+MintSpace+Technologies+from+Kolkata;Making+a+private+AI+agent+that+runs+at+home;Always+learning+something+new" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://shahensha.tech"><img src="https://img.shields.io/badge/Portfolio-shahensha.tech-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0c29" alt="Portfolio" /></a>
+  <a href="https://MINTSPACE-WEBSITE-HERE"><img src="https://img.shields.io/badge/MintSpace-Technologies-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f0c29" alt="MintSpace Technologies" /></a>
   <a href="https://in.linkedin.com/in/shahensha-alam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn" /></a>
   <a href="https://shahensha.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0f0c29" alt="Hashnode" /></a>
   <a href="mailto:shahensha0p@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email" /></a>
@@ -36,6 +36,7 @@ const shahensha = {
   location:   "Kolkata, India",
   role:       "Full Stack Web Developer",
   founderOf:  "MintSpace Technologies",
+  company:    "https://MINTSPACE-WEBSITE-HERE",
   work:       ["Websites", "Web Apps", "Mobile Apps", "Digital Marketing"],
   building:   ["School Management SaaS", "Private AI Agent"],
   learning:   ["AI Automation", "AI Assisted Web Building"],
@@ -102,7 +103,7 @@ A personal AI that runs fully at home on my own machine. It reads my chosen file
 <p align="center">
   <b>Have a project in mind? Lets build it together.</b>
   <br/>
-  <a href="mailto:shahensha0p@gmail.com">shahensha0p@gmail.com</a>
+  <a href="https://MINTSPACE-WEBSITE-HERE">MintSpace Technologies</a> · <a href="mailto:shahensha0p@gmail.com">shahensha0p@gmail.com</a>
 </p>
 
 <p align="center">
